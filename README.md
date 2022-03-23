@@ -1,8 +1,7 @@
 ### Bonjour! 👋
 
-Je m'appelle Joakim, développeur informatique aspirant 💻 Bienvenue sur mon page ou je principalement travaille sur mon portfolio
+Je m'appelle Joakim, développeur web en alternance chez OKP4. 💻 Bienvenue sur mon page ou je principalement travaille sur ma portfeuille informatique.
 
-Ici je montre mon développement en langage Java, Python, SQL et R  
-Actuellement je m'occupe développer une application de banque qui s'appelle BankSys, allez y la voir!
+Actuellement je n'ai aucun projet à montre mais je vous invite à me suivre pour recevoir des notifications lorsque un nouveau projet est publié.
 
 [LinkedIn 💼](https://www.linkedin.com/in/eriksson-joakim)

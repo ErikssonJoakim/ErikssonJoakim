@@ -4,4 +4,4 @@
 
 💻 Working on the [OKP4 Unit Interface](https://github.com/okp4/ui)
 
-[LinkedIn 💼](https://www.linkedin.com/in/eriksson-joakim)
+💼 My LinkedIn [profil](https://www.linkedin.com/in/eriksson-joakim)

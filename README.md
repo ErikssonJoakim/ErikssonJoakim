@@ -1,4 +1,4 @@
-[<img src="img/banner_OKP4.png"/>](https://okp4.network)
+[<img src="img/banner_OKP4.jpg"/>](https://okp4.network)
 
 ### Welcome! 👋
 

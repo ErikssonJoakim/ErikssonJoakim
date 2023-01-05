@@ -1,9 +1,61 @@
-[<img src="img/banner_OKP4.jpg"/>](https://okp4.network)
+[<img src="img/banner_okp4.png"/>](https://okp4.network)
 
-### Welcome! 👋
+## Hello <img src="img/wave.gif" height="25px"/> I'm Joakim Eriksson
 
-🚀 Web developer intern at [OKP4](https://github.com/okp4)
+<a href="https://www.linkedin.com/in/eriksson-joakim" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
-💻 Working on the [OKP4 Unit Interface](https://github.com/okp4/ui)
+🦅 Web developer with a thirst for knowledge, I jump on the opportunity to drink from the well of wisdom!
 
-💼 My LinkedIn [profil](https://www.linkedin.com/in/eriksson-joakim)
+🤖 I like clean and efficient code that allow fast progress and gets away with boring repetitive tasks. Through proper structuring and conventional naming we can save ourselves a lot of headaches.
+
+🪐 I am currently working on web3 applications and Web Design System, very exciting stuff!
+
+## About me
+
+I'm an expat swede living in France since 2020. I'm light hearted and open minded which makes me quite agreable 😇 I'm also known for my jokes!
+
+I enjoy cozy movie nights and the occassional adventure. I'm also a fatalistic perfectionist!
+
+## Tools of the Trade
+
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+</a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">   
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank"> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+   </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+    </a>
+  <a href="https://sass-lang.com" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
+    </a>
+  <a href="https://nodejs.org" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+    </a>
+ <a href="https://nextjs.org">
+      <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" style="margin: 10px" height="50">
+  </a>
+  <a href="https://www.linux.org/" target="_blank"> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+   </a>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
+  <a href="https://webpack.js.org/" target="_blank"> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank"> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+  </a>
+  <a href="https://graphql.org" target="_blank"> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />
+  </a> 
+</div>

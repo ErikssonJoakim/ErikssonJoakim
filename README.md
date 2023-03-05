@@ -1,6 +1,8 @@
-[<img src="img/banner_okp4.png"/>](https://okp4.network)
+<div align="center">
+<img src="img/programmer.gif" />
+</div>
 
-## Hello <img src="img/wave.gif" height="25px"/> I'm Joakim Eriksson
+## Hello <img  src="img/wave.gif" height="25px"/> I'm Joakim Eriksson
 
 <a href="https://www.linkedin.com/in/eriksson-joakim" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -16,7 +18,9 @@
 
 I'm an expat swede living in France since 2020. I'm light hearted and open minded which makes me quite agreable 😇 I'm also known for my jokes!
 
-I enjoy cozy movie nights and the occassional adventure. I'm also a fatalistic perfectionist!
+Digital native since the early days of the 🖥️ personal computer. I've always enjoyed doing stuff on the computer, be it coding, image editing or just to play games with friends.
+
+When I'm not working or having marathon dinners with family you'll most likely find me in front of the computer watching computerphile videos and looking up best practices.
 
 ## Tools of the Trade
 
@@ -45,6 +49,7 @@ I enjoy cozy movie nights and the occassional adventure. I'm also a fatalistic p
  <a href="https://nextjs.org">
       <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" style="margin: 10px" height="50">
   </a>
+  <a href="https://www.php.net/" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50" /> </a>
   <a href="https://www.linux.org/" target="_blank"> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
    </a>
@@ -57,5 +62,13 @@ I enjoy cozy movie nights and the occassional adventure. I'm also a fatalistic p
   </a>
   <a href="https://graphql.org" target="_blank"> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />
-  </a> 
+  </a>
+  <a href="https://www.docker.com/" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" /> </a>
 </div>
+
+## 📈 Github Stats
+
+  <div  style="display: grid; grid-template-columns: repeat(auto-fit, minmax(375px, auto)); gap: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=erikssonjoakim&show_icons=true&count_private=true&theme=shades-of-purple&hide_border=true&hide=stars" style="width: 100%;"/>
+      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=erikssonjoakim&theme=modern-lilac&hide_border=true"  />
+  </div>

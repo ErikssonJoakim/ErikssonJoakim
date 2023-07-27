@@ -8,11 +8,11 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-🦅 Web developer with a thirst for knowledge, I jump on the opportunity to drink from the well of wisdom!
+🦅 Blockchain developer with a thirst for knowledge, I jump on the opportunity to drink from the well of wisdom!
 
 🤖 I like clean and efficient code that allow fast progress and gets away with boring repetitive tasks. Through proper structuring and conventional naming we can save ourselves a lot of headaches.
 
-🪐 I am currently working on web3 applications and Web Design System, very exciting stuff!
+🪐 I am currently working on OKP4, a resource sharing blockchain. Very exciting stuff!
 
 ## About me
 
@@ -49,7 +49,6 @@ When I'm not working or having marathon dinners with family you'll most likely f
  <a href="https://nextjs.org">
       <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" style="margin: 10px" height="50">
   </a>
-  <a href="https://www.php.net/" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50" /> </a>
   <a href="https://www.linux.org/" target="_blank"> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
    </a>
@@ -64,6 +63,8 @@ When I'm not working or having marathon dinners with family you'll most likely f
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />
   </a>
   <a href="https://www.docker.com/" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" /> </a>
+  <a href="https://www.rust-lang.org/" target="_blank"> <img style="margin: 10px" src="https://www.rustacean.net/assets/rustacean-flat-noshadow.svg" alt="docker" width="50" height="50" /> </a>
+  <a href="https://yew.rs/" target="_blank"> <img style="margin: 10px" src="https://yew.rs/img/logo.svg" alt="docker" width="50" height="50" /> </a>
 </div>
 
 ## 📈 Github Stats

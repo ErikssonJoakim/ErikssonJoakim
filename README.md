@@ -70,5 +70,4 @@ When I'm not working or having marathon dinners with family you'll most likely f
 
   <div  style="display: grid; grid-template-columns: repeat(auto-fit, minmax(375px, auto)); gap: 20px;">
       <img src="https://github-readme-stats.vercel.app/api?username=erikssonjoakim&show_icons=true&count_private=true&theme=shades-of-purple&hide_border=true&hide=stars" style="width: 100%;"/>
-      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=erikssonjoakim&theme=modern-lilac&hide_border=true"  />
   </div>

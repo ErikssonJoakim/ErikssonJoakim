@@ -8,7 +8,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-🦅 Blockchain developer with a thirst for knowledge, I jump on the opportunity to drink from the well of wisdom!
+🦅 Full stack developer with a thirst for knowledge, I jump on the opportunity to drink from the well of wisdom!
 
 🤖 I like clean and efficient code that allow fast progress and gets away with boring repetitive tasks. Through proper structuring and conventional naming we can save ourselves a lot of headaches.
 

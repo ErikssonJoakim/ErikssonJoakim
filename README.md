@@ -2,11 +2,11 @@
 <img src="img/programmer.gif" />
 </div>
 
-## Hello <img  src="img/wave.gif" height="25px"/> I'm Joakim Eriksson
-
 <a href="https://www.linkedin.com/in/eriksson-joakim" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+
+## Hello <img  src="img/wave.gif" height="25px"/> I'm Joakim Eriksson
 
 🦅 Full stack developer with a thirst for knowledge, I jump on the opportunity to drink from the well of wisdom!
 

@@ -10,17 +10,17 @@
 
 🦅 Full stack developer with a thirst for knowledge, I jump on the opportunity to drink from the well of wisdom!
 
-🤖 I like clean and efficient code that allow fast progress and gets away with boring repetitive tasks. Through proper structuring and conventional naming we can save ourselves a lot of headaches.
+🤖 As an aspiring software craftsman I try to raise the bar of software development by putting into practice the notions of Clean Code, well thought out Software Architecture such as clean architecture (hexagonal) and EDA, TDD, BDD in my daily practices.
 
-🪐 I am currently working on OKP4, a resource sharing blockchain. Very exciting stuff!
+👨‍💻 In my work I strive for excellence in both the quality of the work I do and the added value it brings. This forces me not only to push myself further as a software engineer but also to take an active part on the business side.
 
 ## About me
 
-I'm an expat swede living in France since 2020. I'm light hearted and open minded which makes me quite agreable 😇 I'm also known for my jokes!
+- I'm currently working for [People Vox](https://people-vox.com), a legal tech company providing electronic voting services and more!
 
-Digital native since the early days of the 🖥️ personal computer. I've always enjoyed doing stuff on the computer, be it coding, image editing or just to play games with friends.
+- Living in France since 2020, originally from Sweden 🇸🇪
 
-When I'm not working or having marathon dinners with family you'll most likely find me in front of the computer watching computerphile videos and looking up best practices.
+- I enjoy all sorts of games! Board games, roleplay, computer games, escape game. I'm a gamer 😉
 
 ## Tools of the Trade
 
@@ -69,6 +69,13 @@ When I'm not working or having marathon dinners with family you'll most likely f
 
 ## 📈 Github Stats
 
-  <div  style="display: grid; grid-template-columns: repeat(auto-fit, minmax(375px, auto)); gap: 20px;">
+<table>
+  <tr>
+    <td valign="top" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=erikssonjoakim&show_icons=true&count_private=true&theme=shades-of-purple&hide_border=true&hide=stars" style="width: 100%;"/>
-  </div>
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikssonjoakim&hide_border=true&layout=compact&theme=shades-of-purple" style="width: 100%;" />
+    </td>
+  </tr>
+</table>  
